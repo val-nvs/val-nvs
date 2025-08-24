@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&color=FFFF00&center=true&vCenter=true&multiline=true&repeat=false&width=870&lines=Welcome+to+my+page!;%5E_%5E)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&color=FFFF00&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=80&lines=Welcome+to+my+page!;%5E_%5E)
+
 <!--
 **val-nvs/val-nvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
