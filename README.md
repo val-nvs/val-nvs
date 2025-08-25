@@ -1,10 +1,8 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&color=FFFF00&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=80&lines=Welcome+to+my+page!;%5E_%5E)
 
-![Static Badge](https://img.shields.io/badge/Instagram-%40val.nevs-brown?logo=instagram&link=https%3A%2F%2Fwww.instagram.com%2Fval.nevs%2F)
+[![Static Badge](https://img.shields.io/badge/Website-Portfolio.io-brown?logo=github)(https://val-nvs.github.io/)]
 
-![Static Badge](https://img.shields.io/badge/Website-github.io-brown?style=plastic&logo=github&link=https%3A%2F%2Fval-nvs.github.io%2F)
-
-![Static Badge](https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=kodak&link=https%3A%2F%2Fval-nvs.github.io%2Fportfolio%2F)
+[![Static Badge](https://img.shields.io/badge/Instagram-%40val.nevs-brown?logo=instagram)(https://www.instagram.com/val.nevs/)]
 
 <!--
 **val-nvs/val-nvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
