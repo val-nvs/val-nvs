@@ -1,8 +1,9 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&color=FFFF00&center=true&vCenter=true&multiline=true&repeat=false&width=435&height=80&lines=Welcome+to+my+page!;%5E_%5E)
 
-[![Static Badge](https://img.shields.io/badge/Website-brown?logo=github)](https://val-nvs.com/)
+[![Static Badge](https://img.shields.io/badge/Website-brown?logo=safari)](https://val-nvs.com/)
 
-[![Static Badge](https://img.shields.io/badge/Videography%20Portfolio-brown?logo=github)](https://val-nvs.com/portfolio/)
+[![Static Badge](https://img.shields.io/badge/Videography%20Portfolio-brown?logo=safari)](https://val-nvs.com/portfolio/)
+
 [![Static Badge](https://img.shields.io/badge/Photograph%20Portfolio-brown?logo=safari)](https://valdirneves.mypixieset.com/)
 
 [![Static Badge](https://img.shields.io/badge/Instagram%20%40val.nevs-brown?logo=instagram)](https://www.instagram.com/val.nevs/)
