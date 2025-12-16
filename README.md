@@ -2,8 +2,8 @@
 
 [![Static Badge](https://img.shields.io/badge/Website-brown?logo=github)](https://val-nvs.com/)
 
-[![Static Badge](https://img.shields.io/badge/Portfolios-brown?logo=github)](https://val-nvs.com/portfolio/)
-[![Static Badge](https://img.shields.io/badge/Portfolios-brown?logo=safari)](https://valdirneves.mypixieset.com/)
+[![Static Badge](https://img.shields.io/badge/Videography%20Portfolio-brown?logo=github)](https://val-nvs.com/portfolio/)
+[![Static Badge](https://img.shields.io/badge/Photograph%20Portfolio-brown?logo=safari)](https://valdirneves.mypixieset.com/)
 
 [![Static Badge](https://img.shields.io/badge/Instagram%20%40val.nevs-brown?logo=instagram)](https://www.instagram.com/val.nevs/)
 
