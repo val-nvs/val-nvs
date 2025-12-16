@@ -6,7 +6,7 @@
 
 [![Static Badge](https://img.shields.io/badge/Photograph%20Portfolio-brown?logo=safari)](https://valdirneves.mypixieset.com/)
 
-[![Static Badge](https://img.shields.io/badge/Instagram%20%40val.nevs-brown?logo=instagram)](https://www.instagram.com/val.nevs/)
+[![Static Badge](https://img.shields.io/badge/Instagram%20%40val.nevs-purple?logo=instagram)](https://www.instagram.com/val.nevs/)
 
 <!--
 **val-nvs/val-nvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
